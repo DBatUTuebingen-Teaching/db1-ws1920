@@ -1,0 +1,173 @@
+[
+{
+  "id" : 1,
+  "created_at" : "Tue Oct 22 16:08:59 +0000 2013",
+  "text" : "RT @Piratenpartei: Der @humanErr zur EU Datenschutzverordnung #EUDataP : “Starker EU-Datenschutz darf nicht scheitern”. http://t.co/vlX7n6O…",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 10,
+  "user" : {
+    "created_at" : "Mon Jun 03 12:37:14 +0000 2013",
+    "description" : "Der  Bezirksverband  Tübingen  im Landesverband Baden-Württemberg",
+    "followers_count" : 122,
+    "id" : 1479629599,
+    "lang" : "de",
+    "name" : "BzV Tübingen",
+    "screen_name" : "BZV_Tuebingen",
+    "url" : "http://t.co/JrInmNCeZE"
+  }
+}, {
+  "id" : 2,
+  "created_at" : "Sat Oct 19 12:15:54 +0000 2013",
+  "text" : "RT @PiratenBW: Unser nächster Landesparteitag findet am 15.02.-16.02 2014 in Heidelberg statt. /s3",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 17,
+  "user" : {
+    "created_at" : "Mon Jun 03 12:37:14 +0000 2013",
+    "description" : "Der  Bezirksverband  Tübingen  im Landesverband Baden-Württemberg",
+    "followers_count" : 122,
+    "id" : 1479629599,
+    "lang" : "de",
+    "name" : "BzV Tübingen",
+    "screen_name" : "BZV_Tuebingen",
+    "url" : "http://t.co/JrInmNCeZE"
+  }
+}, {
+  "id" : 3,
+  "created_at" : "Thu Oct 17 20:58:54 +0000 2013",
+  "text" : "RT @viaggiatori: Una casa per i piccioni non l'avevamo ancora vista: siamo nei giardini di Tübingen, Germania #BawUbytrain @fraintesa http:…",
+  "lang" : "it",
+  "place" : null,
+  "retweet_count" : 6,
+  "user" : {
+    "created_at" : "Sat Dec 17 15:13:07 +0000 2011",
+    "description" : "....sono donna, amo tutto cio' che e' bello.......amo il mare e il sole....",
+    "followers_count" : 201,
+    "id" : 439256432,
+    "lang" : "it",
+    "name" : "Gabrimo",
+    "screen_name" : "GabrimoG",
+    "url" : null
+  }
+}, {
+  "id" : 4,
+  "created_at" : "Thu Oct 24 06:25:42 +0000 2013",
+  "text" : "Der Direktor geht: Weil Paris sparen will, bangt man in Tübingen ums Institut Culturel http://t.co/w0Cm1PYye0",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Fri Mar 06 15:52:26 +0000 2009",
+    "description" : "Hier twittert die Online-Redaktion des Schwäbischen Tagblatts. Impressum: http://t.co/xm5PTfv78s",
+    "followers_count" : 1823,
+    "id" : 23079208,
+    "lang" : "de",
+    "name" : "Tagblatt Redaktion",
+    "screen_name" : "Tagblatt",
+    "url" : "http://t.co/J0NfLsn5y2"
+  }
+}, {
+  "id" : 5,
+  "created_at" : "Wed Oct 23 09:03:49 +0000 2013",
+  "text" : "Tübingen: Zwei Jahre auf Bewährung für den fleißigsten Dieb Deutschlands http://t.co/Wx6kEA8XKP",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Fri Mar 06 15:52:26 +0000 2009",
+    "description" : "Hier twittert die Online-Redaktion des Schwäbischen Tagblatts. Impressum: http://t.co/xm5PTfv78s",
+    "followers_count" : 1823,
+    "id" : 23079208,
+    "lang" : "de",
+    "name" : "Tagblatt Redaktion",
+    "screen_name" : "Tagblatt",
+    "url" : "http://t.co/J0NfLsn5y2"
+  }
+}, {
+  "id" : 6,
+  "created_at" : "Tue Oct 22 13:22:28 +0000 2013",
+  "text" : "Baggerbiss in Glasfaserkabel legt Teile des Mobilfunknetzes in Tübingen lahm http://t.co/f5Aka3Vv9h",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 1,
+  "user" : {
+    "created_at" : "Fri Mar 06 15:52:26 +0000 2009",
+    "description" : "Hier twittert die Online-Redaktion des Schwäbischen Tagblatts. Impressum: http://t.co/xm5PTfv78s",
+    "followers_count" : 1823,
+    "id" : 23079208,
+    "lang" : "de",
+    "name" : "Tagblatt Redaktion",
+    "screen_name" : "Tagblatt",
+    "url" : "http://t.co/J0NfLsn5y2"
+  }
+}, {
+  "id" : 7,
+  "created_at" : "Tue Oct 22 06:29:40 +0000 2013",
+  "text" : "Baustelle ruht über den Winter: Ab Mittwoch geht es im Schlossbergtunnel wieder durch beide Röhren - Tübingen http://t.co/7cW1KLaw5a",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Fri Mar 06 15:52:26 +0000 2009",
+    "description" : "Hier twittert die Online-Redaktion des Schwäbischen Tagblatts. Impressum: http://t.co/xm5PTfv78s",
+    "followers_count" : 1823,
+    "id" : 23079208,
+    "lang" : "de",
+    "name" : "Tagblatt Redaktion",
+    "screen_name" : "Tagblatt",
+    "url" : "http://t.co/J0NfLsn5y2"
+  }
+}, {
+  "id" : 8,
+  "created_at" : "Fri Oct 18 09:58:29 +0000 2013",
+  "text" : "Überraschende Wende vor Gericht -  Tatvorwurf Mordversuch: Schwurgericht Tübingen spricht Reutlinger Angeklagten frei http://t.co/5eGkzPEi4d",
+  "lang" : "de",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Fri Mar 06 15:52:26 +0000 2009",
+    "description" : "Hier twittert die Online-Redaktion des Schwäbischen Tagblatts. Impressum: http://t.co/xm5PTfv78s",
+    "followers_count" : 1823,
+    "id" : 23079208,
+    "lang" : "de",
+    "name" : "Tagblatt Redaktion",
+    "screen_name" : "Tagblatt",
+    "url" : "http://t.co/J0NfLsn5y2"
+  }
+}, {
+  "id" : 9,
+  "created_at" : "Thu Oct 24 13:07:36 +0000 2013",
+  "text" : "@claireia 19 degrees here in tuebingen. #WTFweather",
+  "lang" : "en",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Tue Apr 26 20:26:21 +0000 2011",
+    "description" : "Canadian living in Germany. Exchange student at the Universität Tübingen. Going with the flow. Western student for life.",
+    "followers_count" : 119,
+    "id" : 288415845,
+    "lang" : "en",
+    "name" : "Julia Phillips",
+    "screen_name" : "JuliaPhillips91",
+    "url" : null
+  }
+}, {
+  "id" : 10,
+  "created_at" : "Sun Oct 20 13:00:18 +0000 2013",
+  "text" : "♫ Today: Tübingen, Germany - Oct 20 at Epplehaus http://t.co/rkGN8kpTzv",
+  "lang" : "en",
+  "place" : null,
+  "retweet_count" : 0,
+  "user" : {
+    "created_at" : "Sat Jul 17 15:54:25 +0000 2010",
+    "description" : "Barb Wire Dolls is a girl-fronted rock band that moved from Greece to LA and has been called The Next Big Thing & LA's New Break-out Band by the US press.",
+    "followers_count" : 1140,
+    "id" : 167815569,
+    "lang" : "en",
+    "name" : "Barb Wire Dolls",
+    "screen_name" : "BarbWireDolls",
+    "url" : "http://t.co/vmRPEM30Fw"
+  }
+}
+]
